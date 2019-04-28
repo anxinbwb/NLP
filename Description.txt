@@ -1,0 +1,2 @@
+1. N_gram_modeling.py is a function to generate WordCount and Bigram from "headline" and "short_description" in the .json file.
+2. News_content_analysis.ipynb is a notebook displaying some samples of NLP including N-grams modeling, Topic modeling, and Term-document modeling.
